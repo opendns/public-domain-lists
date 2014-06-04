@@ -18,3 +18,13 @@ names.
 Similar to the OpenDNS Top Domains List, domains that we flagged as
 suspicious are not present in the list, that can be used as a benign
 data set.
+
+Both lists are in public domain, and are automatically updated weekly.
+
+They are not meant to replace other public lists in any way. The Top
+Domains List, in particular, is solely based on DNS queries and
+doesn’t reflect the popularity of websites.
+
+However, these lists have been useful to train, test and improve our
+own models, and by sharing them, we hope that other researchers will
+find them a useful addition as well.
