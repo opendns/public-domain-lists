@@ -19,7 +19,7 @@ Similar to the OpenDNS Top Domains List, domains that we flagged as
 suspicious are not present in the list, that can be used as a benign
 data set.
 
-Both lists are in public domain, and are automatically updated weekly.
+Both lists are in public domain, and are updated weekly.
 
 They are not meant to replace other public lists in any way. The Top
 Domains List, in particular, is solely based on DNS queries and
